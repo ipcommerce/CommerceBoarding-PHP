@@ -10,7 +10,7 @@ array(5) {
   [3]=>
   string(20) "Expect: 100-continue"
   [4]=>
-  string(33) "Host: stsp-02.cert.ipcommerce.com"
+  string(33) "Host: apis.cert.ipcommerce.com"
 }
 string(5832) "PHNhbWw6QXNzZXJ0aW9uIE1ham9yVmVyc2lvbj0iMSIgTWlub3JWZXJzaW9uPSIxIiBBc3NlcnRpb25JRD0iXzhiNzVhMzc1LWFkYWQtNDg3Mi05NzIyLTBmZTY3YmMwMWRmYSIgSXNzdWVyPSJJUENfU0VDVVJJVFlfU1RTIiBJc3N1ZUluc3RhbnQ9IjIwMTItMDYtMTVUMTk6MjE6MDYuOTQ3WiIgeG1sbnM6c2FtbD0idXJuOm9hc2lzOm5hbWVzOnRjOlNBTUw6MS4wOmFzc2VydGlvbiI+PHNhbWw6Q29uZGl0aW9ucyBOb3RCZWZvcmU9IjIwMTItMDYtMTVUMTk6MjE6MDYuOTQ3WiIgTm90T25PckFmdGVyPSIyMDEyLTA2LTE1VDE5OjUxOjA2Ljk0N1oiPjwvc2FtbDpDb25kaXRpb25zPjxzYW1sOkFkdmljZT48L3NhbWw6QWR2aWNlPjxzYW1sOkF0dHJpYnV0ZVN0YXRlbWVudD48c2FtbDpTdWJqZWN0PjxzYW1sOk5hbWVJZGVudGlmaWVyPjQwRjkyRUMwMjFBMDAwMDE8L3NhbWw6TmFtZUlkZW50aWZpZXI+PHNhbWw6U3ViamVjdENvbmZpcm1hdGlvbj48c2FtbDpDb25maXJtYXRpb25NZXRob2Q+dXJuOm9hc2lzOm5hbWVzOnRjOlNBTUw6MS4wOmNtOmhvbGRlci1vZi1rZXk8L3NhbWw6Q29uZmlybWF0aW9uTWV0aG9kPjxLZXlJbmZvIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwLzA5L3htbGRzaWcjIj48ZTpFbmNyeXB0ZWRLZXkgeG1sbnM6ZT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS8wNC94bWxlbmMjIj48ZTpFbmNyeXB0aW9uTWV0aG9kIEFsZ29yaXRobT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS8wNC94bWxlbmMjcnNhLW9hZXAtbWdmMXAiPjxEaWdlc3RNZXRob2QgQWxnb3JpdGhtPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwLzA5L3htbGRzaWcjc2hhMSI+PC9EaWdlc3RNZXRob2Q+PC9lOkVuY3J5cHRpb25NZXRob2Q+PEtleUluZm8+PG86U2VjdXJpdHlUb2tlblJlZmVyZW5jZSB4bWxuczpvPSJodHRwOi8vZG9jcy5vYXNpcy1vcGVuLm9yZy93c3MvMjAwNC8wMS9vYXNpcy0yMDA0MDEtd3NzLXdzc2VjdXJpdHktc2VjZXh0LTEuMC54c2QiPjxvOktleUlkZW50aWZpZXIgVmFsdWVUeXBlPSJodHRwOi8vZG9jcy5vYXNpcy1vcGVuLm9yZy93c3Mvb2FzaXMtd3NzLXNvYXAtbWVzc2FnZS1zZWN1cml0eS0xLjEjVGh1bWJwcmludFNIQTEiPkJrbFg5dE5PNHlYWHNGdTAxSHJ0MGoxRVNCVT08L286S2V5SWRlbnRpZmllcj48L286U2VjdXJpdHlUb2tlblJlZmVyZW5jZT48L0tleUluZm8+PGU6Q2lwaGVyRGF0YT48ZTpDaXBoZXJWYWx1ZT5LM2V0VXpGdkRwdEZUZWh2NVFtMWtJbTNZTDNOUnpvRlJiTVU2cUp1cHZkOGV0MnpYcnowTllPamsvMWVQNy9FNHZYNnFDcTZkdE10bEMybGxzbXNkYUJEWHAwdXBZVnVZZXJDNE9tdmhzRnNBVU14dDU3aGltU2xoK29raDg5MGt2OW8wUFhhRk4vNUdQRkx1RE1LK2dveVFsMVNmN0xpamdNM0xkVEk1U3BUYWtnRDBUdnZHV1NqWlRhRzJvVkJnV1F0SGFnYXpQR0czV2o4WkJEYmRadUVDVWR4M3dZMXR2RERIWHVSZW9ySVFVWUpWeUFEQnhDOTlKQXNQTFJadExmR1Q0elhxWC9BcVZqMGVwYUJUTVJHK3VhUllZNStmTnZVY3AwV29nYWZQcFNZbkdhQU45VWtXZ0I4d3RRaEVQQ3VmeEtuRXgvWUNnY1JDOWwyQkE9PTwvZTpDaXBoZXJWYWx1ZT48L2U6Q2lwaGVyRGF0YT48L2U6RW5jcnlwdGVkS2V5PjwvS2V5SW5mbz48L3NhbWw6U3ViamVjdENvbmZpcm1hdGlvbj48L3NhbWw6U3ViamVjdD48c2FtbDpBdHRyaWJ1dGUgQXR0cmlidXRlTmFtZT0iT3JpZ2luYXRvciIgQXR0cmlidXRlTmFtZXNwYWNlPSJodHRwOi8vc2NoZW1hcy5pcGNvbW1lcmNlLmNvbS9JZGVudGl0eSI+PHNhbWw6QXR0cmlidXRlVmFsdWU+U2lnbk9uPC9zYW1sOkF0dHJpYnV0ZVZhbHVlPjwvc2FtbDpBdHRyaWJ1dGU+PHNhbWw6QXR0cmlidXRlIEF0dHJpYnV0ZU5hbWU9IlNBSyIgQXR0cmlidXRlTmFtZXNwYWNlPSJodHRwOi8vc2NoZW1hcy5pcGNvbW1lcmNlLmNvbS9JZGVudGl0eSI+PHNhbWw6QXR0cmlidXRlVmFsdWU+NDBGOTJFQzAyMUEwMDAwMTwvc2FtbDpBdHRyaWJ1dGVWYWx1ZT48L3NhbWw6QXR0cmlidXRlPjxzYW1sOkF0dHJpYnV0ZSBBdHRyaWJ1dGVOYW1lPSJuYW1lIiBBdHRyaWJ1dGVOYW1lc3BhY2U9Imh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zIj48c2FtbDpBdHRyaWJ1dGVWYWx1ZT40MEY5MkVDMDIxQTAwMDAxPC9zYW1sOkF0dHJpYnV0ZVZhbHVlPjwvc2FtbDpBdHRyaWJ1dGU+PHNhbWw6QXR0cmlidXRlIEF0dHJpYnV0ZU5hbWU9IkF1dGhlbnRpY2F0aW9uUm9vdCIgQXR0cmlidXRlTmFtZXNwYWNlPSJodHRwOi8vc2NoZW1hcy5pcGNvbW1lcmNlLmNvbS9JZGVudGl0eSI+PHNhbWw6QXR0cmlidXRlVmFsdWU+NzFmODIyYmMtY2ZiNS00YjgyLTg2MjUtN2Y0NzIyZTg2NDM0PC9zYW1sOkF0dHJpYnV0ZVZhbHVlPjwvc2FtbDpBdHRyaWJ1dGU+PHNhbWw6QXR0cmlidXRlIEF0dHJpYnV0ZU5hbWU9IkF1dGhlbnRpY2F0aW9uUm9vdE1ldGhvZCIgQXR0cmlidXRlTmFtZXNwYWNlPSJodHRwOi8vc2NoZW1hcy5pcGNvbW1lcmNlLmNvbS9JZGVudGl0eSI+PHNhbWw6QXR0cmlidXRlVmFsdWU+U0FNTDEwPC9zYW1sOkF0dHJpYnV0ZVZhbHVlPjwvc2FtbDpBdHRyaWJ1dGU+PHNhbWw6QXR0cmlidXRlIEF0dHJpYnV0ZU5hbWU9IklkZW50aXR5Um9vdCIgQXR0cmlidXRlTmFtZXNwYWNlPSJodHRwOi8vc2NoZW1hcy5pcGNvbW1lcmNlLmNvbS9JZGVudGl0eSI+PHNhbWw6QXR0cmlidXRlVmFsdWU+M2Y1MjRkYTgtNzE1NC00YmM0LTg3ZGQtY2VhMzE5OWMwNjU5PC9zYW1sOkF0dHJpYnV0ZVZhbHVlPjwvc2FtbDpBdHRyaWJ1dGU+PHNhbWw6QXR0cmlidXRlIEF0dHJpYnV0ZU5hbWU9Iklzc3VlciIgQXR0cmlidXRlTmFtZXNwYWNlPSJodHRwOi8vc2NoZW1hcy5pcGNvbW1lcmNlLmNvbS9JZGVudGl0eSI+PHNhbWw6QXR0cmlidXRlVmFsdWU+SVBDX1NFQ1VSSVRZX1NUUzwvc2FtbDpBdHRyaWJ1dGVWYWx1ZT48L3NhbWw6QXR0cmlidXRlPjwvc2FtbDpBdHRyaWJ1dGVTdGF0ZW1lbnQ+PFNpZ25hdHVyZSB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC8wOS94bWxkc2lnIyI+PFNpZ25lZEluZm8+PENhbm9uaWNhbGl6YXRpb25NZXRob2QgQWxnb3JpdGhtPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzEwL3htbC1leGMtYzE0biMiPjwvQ2Fub25pY2FsaXphdGlvbk1ldGhvZD48U2lnbmF0dXJlTWV0aG9kIEFsZ29yaXRobT0iaHR0cDovL3d3dy53My5vcmcvMjAwMC8wOS94bWxkc2lnI3JzYS1zaGExIj48L1NpZ25hdHVyZU1ldGhvZD48UmVmZXJlbmNlIFVSST0iI184Yjc1YTM3NS1hZGFkLTQ4NzItOTcyMi0wZmU2N2JjMDFkZmEiPjxUcmFuc2Zvcm1zPjxUcmFuc2Zvcm0gQWxnb3JpdGhtPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwLzA5L3htbGRzaWcjZW52ZWxvcGVkLXNpZ25hdHVyZSI+PC9UcmFuc2Zvcm0+PFRyYW5zZm9ybSBBbGdvcml0aG09Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvMTAveG1sLWV4Yy1jMTRuIyI+PC9UcmFuc2Zvcm0+PC9UcmFuc2Zvcm1zPjxEaWdlc3RNZXRob2QgQWxnb3JpdGhtPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwLzA5L3htbGRzaWcjc2hhMSI+PC9EaWdlc3RNZXRob2Q+PERpZ2VzdFZhbHVlPllIVFpxM0FJNHBjc2FIcndZdFZibUpHU2N3QT08L0RpZ2VzdFZhbHVlPjwvUmVmZXJlbmNlPjwvU2lnbmVkSW5mbz48U2lnbmF0dXJlVmFsdWU+S25CSVpueHhKdHJPcVhqRDVFdzhmZVpnWTd1Q0orQUtTbjhIWk4wY2dRRXdxRFJzZG5mWmViclE2UkwwQml4c3E2Yk05ekh2b1VuUmdPU0VBVE5wVUJhNlB5ajhoV1ZNSUJCM2kxZnBLOEVBV2xkUGw5WEhhY3hUK2sxN2p5SmZUM05WblYzZHlhblNrMlF3UmxoYWU1NjYvWFFQWkRscXNQQ3Vib2grV0tyYlFQZVROZ3Avd0llQldVZnVQWEF6c1hlSlN6dmdRUHZCK2FYdUh1NE5ITmNRZVZXa2Z0RFdzaXVJNXYvd2hjV0l4eGtnSWNRaktqTDFyNzd0RVNsUWl2TXJrNE5OS2lpN3FVbnQxcmkxdERPckYzTmpVRXY5QjJqU2NBMVlDemFCRkFlWS9raFpsNEFVQUFmYTVQdmJCSmF6c2xmeFR0ZTBBREhuMFpyMU5nPT08L1NpZ25hdHVyZVZhbHVlPjxLZXlJbmZvPjxvOlNlY3VyaXR5VG9rZW5SZWZlcmVuY2UgeG1sbnM6bz0iaHR0cDovL2RvY3Mub2FzaXMtb3Blbi5vcmcvd3NzLzIwMDQvMDEvb2FzaXMtMjAwNDAxLXdzcy13c3NlY3VyaXR5LXNlY2V4dC0xLjAueHNkIj48bzpLZXlJZGVudGlmaWVyIFZhbHVlVHlwZT0iaHR0cDovL2RvY3Mub2FzaXMtb3Blbi5vcmcvd3NzL29hc2lzLXdzcy1zb2FwLW1lc3NhZ2Utc2VjdXJpdHktMS4xI1RodW1icHJpbnRTSEExIj5lcDVrd2EzMWZuMnJGM3A1Sm9TeUZ3YXZVSmM9PC9vOktleUlkZW50aWZpZXI+PC9vOlNlY3VyaXR5VG9rZW5SZWZlcmVuY2U+PC9LZXlJbmZvPjwvU2lnbmF0dXJlPjwvc2FtbDpBc3NlcnRpb24+"
 array(4) {
@@ -21,12 +21,12 @@ array(4) {
   [2]=>
   string(8) "Accept: "
   [3]=>
-  string(32) "Host: cws-01.cert.ipcommerce.com"
+  string(32) "Host: boarding.cert.ipcommerce.com"
 }
 
 
 
-POST https://cws-01.cert.ipcommerce.com/rest/2.0.17/commerceboarding/applications
+POST https://boarding.cert.ipcommerce.com/rest/2.0.17/commerceboarding/applications
 
 
 {"ApplicationGuid":"00000000-0000-0000-0000-000000000000","ApplicationProfileId":"Base Bundle Plus Business Risk","Created":null,"ExternalApplicationId":"188AA2F6-AC28-431F-A6A9-C16F65E58D3C","Fields":[{"Key":"ApplicantEmailAddress","Value":"test@test.com"},{"Key":"IpAddress","Value":"1.0.0.0"},{"Key":"ApplicationType","Value":"Loan"},{"Key":"BusinessName","Value":"Test Business Name"},{"Key":"BusinessLegalName","Value":"Test Legal Business Name"},{"Key":"BusinessDbaName","Value":"Test Legal DBA Business Name"},{"Key":"TypeOfEntity","Value":"LLC"},{"Key":"BusinessUrl","Value":"mybiz@biz.com"},{"Key":"BusinessAddress1","Value":"111 Test Street"},{"Key":"BusinessAddress2","Value":"Suite 100"},{"Key":"BusinessCity","Value":"Denver"},{"Key":"BusinessState","Value":"CO"},{"Key":"BusinessZip","Value":"80202"},{"Key":"BusinessPhone","Value":"3033334444"},{"Key":"HomeAddress1","Value":"111 Home Street"},{"Key":"HomeAddress2","Value":"Apt. 100"},{"Key":"HomeCity","Value":"Denver"},{"Key":"HomeState","Value":"CO"},{"Key":"HomeZip","Value":"80202"},{"Key":"HomePhone","Value":"3334445555"},{"Key":"ApplicantFirstName","Value":"John"},{"Key":"ApplicantLastName","Value":"Doe"},{"Key":"DateOfBirth","Value":"10\/31\/1971"},{"Key":"SocialSecurityNumber","Value":"111223333"}],"Validation":null}
@@ -459,7 +459,7 @@ object(SimpleCurlResponse)#3 (7) {
   ["curl_info"]=>
   array(21) {
     ["url"]=>
-    string(76) "https://cws-01.cert.ipcommerce.com/rest/2.0.17/commerceboarding/applications"
+    string(76) "https://boarding.cert.ipcommerce.com/rest/2.0.17/commerceboarding/applications"
     ["content_type"]=>
     string(16) "application/json"
     ["http_code"]=>
@@ -512,14 +512,14 @@ array(5) {
   [2]=>
   string(8) "Accept: "
   [3]=>
-  string(32) "Host: cws-01.cert.ipcommerce.com"
+  string(32) "Host: boarding.cert.ipcommerce.com"
   [4]=>
   string(17) "Content-Length: 0"
 }
 
 
 
-POST https://cws-01.cert.ipcommerce.com/rest/2.0.17/commerceboarding/applications/eda3110a-3641-4e3f-880a-7628e610d858/idquestions
+POST https://boarding.cert.ipcommerce.com/rest/2.0.17/commerceboarding/applications/eda3110a-3641-4e3f-880a-7628e610d858/idquestions
 
 
 null
@@ -614,7 +614,7 @@ object(SimpleCurlResponse)#54 (7) {
   ["curl_info"]=>
   array(21) {
     ["url"]=>
-    string(125) "https://cws-01.cert.ipcommerce.com/rest/2.0.17/commerceboarding/applications/eda3110a-3641-4e3f-880a-7628e610d858/idquestions"
+    string(125) "https://boarding.ipcommerce.com/rest/2.0.17/commerceboarding/applications/eda3110a-3641-4e3f-880a-7628e610d858/idquestions"
     ["content_type"]=>
     string(16) "application/json"
     ["http_code"]=>
@@ -667,12 +667,12 @@ array(4) {
   [2]=>
   string(8) "Accept: "
   [3]=>
-  string(32) "Host: cws-01.cert.ipcommerce.com"
+  string(32) "Host: boarding.cert.ipcommerce.com"
 }
 
 
 
-PUT https://cws-01.cert.ipcommerce.com/rest/2.0.17/commerceboarding/applications/eda3110a-3641-4e3f-880a-7628e610d858/idquestions/5cf7cada-e822-4d8d-95b2-33287f3e92f4
+PUT https://boarding.cert.ipcommerce.com/rest/2.0.17/commerceboarding/applications/eda3110a-3641-4e3f-880a-7628e610d858/idquestions/5cf7cada-e822-4d8d-95b2-33287f3e92f4
 
 
 {"Questions":[{"Question":"What number comes directly after the number 1?","Answers":["2","997","998","999"],"QuestionType":"mock","SelectedAnswer":0},{"Question":"What number comes directly after the number 5?","Answers":["997","6","998","999"],"QuestionType":"mock","SelectedAnswer":1},{"Question":"What number comes directly after the number 3?","Answers":["997","998","4","999"],"QuestionType":"mock","SelectedAnswer":2}],"QuestionsId":"5cf7cada-e822-4d8d-95b2-33287f3e92f4"}
@@ -704,7 +704,7 @@ object(SimpleCurlResponse)#3 (7) {
   ["curl_info"]=>
   array(21) {
     ["url"]=>
-    string(162) "https://cws-01.cert.ipcommerce.com/rest/2.0.17/commerceboarding/applications/eda3110a-3641-4e3f-880a-7628e610d858/idquestions/5cf7cada-e822-4d8d-95b2-33287f3e92f4"
+    string(162) "https://boarding.cert.ipcommerce.com/rest/2.0.17/commerceboarding/applications/eda3110a-3641-4e3f-880a-7628e610d858/idquestions/5cf7cada-e822-4d8d-95b2-33287f3e92f4"
     ["content_type"]=>
     string(16) "application/json"
     ["http_code"]=>
@@ -757,14 +757,14 @@ array(5) {
   [2]=>
   string(8) "Accept: "
   [3]=>
-  string(32) "Host: cws-01.cert.ipcommerce.com"
+  string(32) "Host: boarding.cert.ipcommerce.com"
   [4]=>
   string(17) "Content-Length: 0"
 }
 
 
 
-POST https://cws-01.cert.ipcommerce.com/rest/2.0.17/commerceboarding/applications/eda3110a-3641-4e3f-880a-7628e610d858/result
+POST https://boarding.cert.ipcommerce.com/rest/2.0.17/commerceboarding/applications/eda3110a-3641-4e3f-880a-7628e610d858/result
 
 
 null
@@ -796,7 +796,7 @@ object(SimpleCurlResponse)#54 (7) {
   ["curl_info"]=>
   array(21) {
     ["url"]=>
-    string(120) "https://cws-01.cert.ipcommerce.com/rest/2.0.17/commerceboarding/applications/eda3110a-3641-4e3f-880a-7628e610d858/result"
+    string(120) "https://boarding.cert.ipcommerce.com/rest/2.0.17/commerceboarding/applications/eda3110a-3641-4e3f-880a-7628e610d858/result"
     ["content_type"]=>
     string(16) "application/json"
     ["http_code"]=>
@@ -849,14 +849,14 @@ array(5) {
   [2]=>
   string(8) "Accept: "
   [3]=>
-  string(32) "Host: cws-01.cert.ipcommerce.com"
+  string(32) "Host: boarding.cert.ipcommerce.com"
   [4]=>
   string(17) "Content-Length: 0"
 }
 
 
 
-GET https://cws-01.cert.ipcommerce.com/rest/2.0.17/commerceboarding/applications/eda3110a-3641-4e3f-880a-7628e610d858/result
+GET https://boarding.cert.ipcommerce.com/rest/2.0.17/commerceboarding/applications/eda3110a-3641-4e3f-880a-7628e610d858/result
 
 
 ""
@@ -894,7 +894,7 @@ object(SimpleCurlResponse)#3 (7) {
   ["curl_info"]=>
   array(21) {
     ["url"]=>
-    string(120) "https://cws-01.cert.ipcommerce.com/rest/2.0.17/commerceboarding/applications/eda3110a-3641-4e3f-880a-7628e610d858/result"
+    string(120) "https://boarding.cert.ipcommerce.com/rest/2.0.17/commerceboarding/applications/eda3110a-3641-4e3f-880a-7628e610d858/result"
     ["content_type"]=>
     string(16) "application/json"
     ["http_code"]=>
@@ -950,14 +950,14 @@ array(5) {
   [2]=>
   string(8) "Accept: "
   [3]=>
-  string(32) "Host: cws-01.cert.ipcommerce.com"
+  string(32) "Host: boarding.cert.ipcommerce.com"
   [4]=>
   string(17) "Content-Length: 0"
 }
 
 
 
-GET https://cws-01.cert.ipcommerce.com/rest/2.0.17/commerceboarding/applications?appStatus=1
+GET https://boarding.cert.ipcommerce.com/rest/2.0.17/commerceboarding/applications?appStatus=1
 
 
 ""
@@ -1350,7 +1350,7 @@ object(SimpleCurlResponse)#54 (7) {
   ["curl_info"]=>
   array(21) {
     ["url"]=>
-    string(88) "https://cws-01.cert.ipcommerce.com/rest/2.0.17/commerceboarding/applications?appStatus=1"
+    string(88) "https://boarding.cert.ipcommerce.com/rest/2.0.17/commerceboarding/applications?appStatus=1"
     ["content_type"]=>
     string(16) "application/json"
     ["http_code"]=>
